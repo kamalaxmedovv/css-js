@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+
+    background-color: #646ecf;
+}
+
+.container{
+    max-width: 350px;
+    margin: auto;
+}
+
+#bir{
+    width: 350px;
+    background-color: #fff;
+}
+
+#bir div h1 {
+    width: 350px;
+    background-color: #fff;
+    margin-left: 30px;
+}
+
+#bir div form {
+    width: 350px;
+    background-color: #fff;
+    margin-left: 30px;
+}
+
+#email{
+    width: 350px;
+
+}
+
+#bir div form label{
+    padding: 30px;
+    width: 350px;
+}
+
